@@ -6,7 +6,7 @@ stored within the system.
 
 Author: John Grahn
 Student ID: 000961901
-Email: jgrahn@wgu.edu
+Email: 
 C195 Software 2
 Date: 12/01/2022
 
