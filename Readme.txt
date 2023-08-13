@@ -4,11 +4,7 @@ SchedulingApp is a java application which allows users to manage appoinments wit
 across several countries and timezones. SchedulingApp also allows users to generate reports on information
 stored within the system.
 
-Author: John Grahn
-Student ID: 000961901
-Email: 
-C195 Software 2
-Date: 12/01/2022
+Build Information
 
 IntelliJ IDEA 2021.1.3 (Community Edition)
 Build #IC-211.7628.21, built on June 30, 2021
@@ -19,8 +15,7 @@ JavaFx SDK 17.0.1
 mysql-connector-java-8.0.25
 Kotlin: 211-1.4.32-release-IJ7628.19
 
-Custom Report
-My custom report displays the total number of scheduled appointments for a country
+
 
 Running Program
 JDK and JavaFX are required to run this application.
